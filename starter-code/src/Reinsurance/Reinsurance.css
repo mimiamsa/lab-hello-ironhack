@@ -1,0 +1,17 @@
+.Resinsurance-element-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.Resinsurance-element-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between; 
+  text-align: left;
+}
+
+.reinsurance-wrapper {
+  background: white;
+  width:100%
+}
